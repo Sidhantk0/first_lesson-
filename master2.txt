@@ -1,0 +1,1 @@
+so this is my second file in the bash and i will be pushing it on github using git bash
